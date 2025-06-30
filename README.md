@@ -71,7 +71,6 @@ These files are reusable in any future app.
 | Title          | `#B82132` |
 | Button BG      | `#F2B28C` |
 | Button Text    | `#ffffff` |
-| Unrecognized   | Blue (RGB)
 
 Color palette link: [Click here](https://colorhunt.co/palette/b82132d2665af2b28cf6ded8)
 
