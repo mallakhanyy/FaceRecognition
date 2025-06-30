@@ -99,6 +99,7 @@ Color palette link: [Click here](https://colorhunt.co/palette/b82132d2665af2b28c
 
 ```bash
 pip install -r requirements.txt
+```
 
 
 ## Author
